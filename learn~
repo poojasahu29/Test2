@@ -1,2 +1,8 @@
 hiii this is first document....
+<<<<<<< HEAD
 this is edited document....
+=======
+>>>>>>> a29dbc0c2e92b3228df25c7bcffcd787ee2771d6
+a
+b
+1
